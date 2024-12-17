@@ -1,7 +1,7 @@
 {
    "title":"Atmosphere-Cookbook: A cookbook of recipes for analysing atmospheric model output",
    "license":"Apache-2.0",
-   "contributors":[
+   "creators":[
       {
          "affiliation":"University of Melbourne",
          "name":"Navid C. Constantinou",
